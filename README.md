@@ -63,7 +63,7 @@ Accuracy of various model used for URL detection
 
 Feature importance for Phishing URL Detection 
 <br><br>
-![alt text](https://github.com/keshaw007/phising-website_detection/blob/main/Screenshot (82).png?raw=true)
+![alt text](https://github.com/[keshaw007]/[phising-website_detection]/blob/[main]/Screenshot (82).png?raw=true)
 
 
 
