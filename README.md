@@ -61,11 +61,6 @@ Accuracy of various model used for URL detection
 7|	Logistic Regression|        	0.934|	0.941|	0.943|	0.927|
 8|	Naive Bayes Classifier|     	0.605|	0.454|	0.292|	0.997|
 
-Feature importance for Phishing URL Detection 
-<br><br>
-![alt text](http://url/to/Screenshot(82).png)
-
-
 
 
 ## Conclusion
